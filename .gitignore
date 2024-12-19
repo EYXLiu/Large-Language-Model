@@ -1,0 +1,8 @@
+.env
+
+.venv
+
+*.pth
+
+discord_messages.txt
+last.txt
