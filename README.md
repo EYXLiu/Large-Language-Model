@@ -1,4 +1,4 @@
-# LLM model based on chatGPT
+# Self written and trained model based on GPT2 and 3
 
 Made with Python, Pytorch, and Jupyter Notebooks <br />
 This is an LLM based on the gpt2 code and gpt3 papers. Inside the folders are two other models used for learning concepts <br />
