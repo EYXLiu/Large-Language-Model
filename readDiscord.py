@@ -30,4 +30,4 @@ def retrieve_messages(channelID):
     with open('last.txt', 'w') as f:
         f.write(last_message_id)
 
-msg = retrieve_messages(1151382718387585034)
+msg = retrieve_messages(os.getenv('channelID'))
