@@ -3,6 +3,8 @@
 .venv
 
 *.pth
+*.csv
 
-discord_messages.txt
-last.txt
+*.txt
+
+*.zst

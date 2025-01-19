@@ -331,7 +331,7 @@ def get_lr(it):
     
 optimizer = model.configure_optimizers(wd=0.1, lr=6e-4, device=device)
 
-training = False
+training = True
 
 if training:
     for i in range(total):
